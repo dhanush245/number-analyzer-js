@@ -33,6 +33,8 @@ A simple and user-friendly web app built using **HTML**, **CSS**, and **JavaScri
 ---
 
 ## 🖼️ Preview
+<img width="1230" height="746" alt="image" src="https://github.com/user-attachments/assets/dffdef15-fe81-474a-a094-b6b1d638cbdc" />
+
 
 
 ## 📁 Folder Structure
