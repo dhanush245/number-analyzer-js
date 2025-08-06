@@ -32,6 +32,9 @@ A simple and user-friendly web app built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
+## 🖼️ Preview
+
+
 ## 📁 Folder Structure
 
 ```bash
